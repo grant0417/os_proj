@@ -1,0 +1,14 @@
+sysroot
+isodir
+*.iso
+
+*.a
+*.d
+*.o
+*.bin
+*.kernel
+
+.idea
+.ccls-cache
+.ccls
+
